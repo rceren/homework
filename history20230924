@@ -1,0 +1,63 @@
+    1  whoami
+    2  pwd
+    3  ls -lt
+    4  ls
+    5  history
+    6  nano
+    7  echo lalala
+    8  ls -a
+    9  man l
+   10  man ls
+   11  uname
+   12  quartus
+   13  echo $0
+   14  where is bash
+   15  whereis bash
+   16  nano homeworktwo
+   17  ls -lt
+   18  pwd
+   19  chmod 754 homeworktwo
+   20  ls -lt
+   21  pwd
+   22  echo $PATH
+   23  ls -l homework
+   24  PATH=$PATH
+   25  PATH=$PATH:~
+   26  echo $PATH
+   27  ls -lt
+   28  homeworktwo
+   29  ls
+   30  cd RCG
+   31  cd
+   32  ls -lt
+   33  man rm
+   34  rm homeworktwo
+   35  ls -lt
+   36  clear
+   37  cat /ect/shells
+   38  clear
+   39  cat /etc/shells
+   40  which bash
+   41  clear
+   42  cd Desktop/
+   43  touch hwtwo.sh
+   44  ls -al
+   45  ./hwtwo.sh
+   46  chmod +x hwtwo
+   47  chmod +x hwtwo.sh
+   48  ls -al
+   49  ./hwtwo.sh
+   50  ls -lt
+   51  clear
+   52  ./hwtwo.sh
+   53  clear
+   54  ./hwtwo.sh
+   55  clear
+   56  ./hwtwo.sh
+   57  clear
+   58  ./hwtwo.sh
+   59  cd..
+   60  cd ..
+   61  clear
+   62  history
+   63  history > history20230924
